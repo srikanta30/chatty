@@ -1,4 +1,4 @@
-## Chat-App
+## Chatty
 
 Chat App Created Using Next.js, Chakra UI & Firebase.
 
